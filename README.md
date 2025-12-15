@@ -1,3 +1,7 @@
 # Git Practise Repo
 
-This repository is for practicing Git and Github.
+## Update ✨
+
+📅 Date: 2025-02-14  
+🚀 Practicing Git pull requests  
+😄 Learning Git is fun!
